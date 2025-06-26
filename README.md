@@ -1,5 +1,5 @@
-# My_Portfolio
-https://github.com/matthew633-gen/My_Portfolio/Home.html
+# My_Portfolio 
+https://matthew633-gen.github.io/My_Portfolio/Home.html
 
 
 Absolutely! Here’s a polished README you can copy and paste for your portfolio project:
