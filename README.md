@@ -2,7 +2,7 @@
 https://matthew633-gen.github.io/My_Portfolio/Home.html
 
 
-Absolutely! Here’s a polished README you can copy and paste for your portfolio project:
+Absolutely! Here’s a polished README you can copy and paste for your portfolio project!:
 
 ---
 
